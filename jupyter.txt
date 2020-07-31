@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=AYZCpxYVxH4&list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K&index=2
+
+Linux installation  at 3:50 of the above video
+or install-toree.txt in gcp mudule
+
+Windows installation : just install  latest anaconda, for pyspark run "pip install findspark"  in any python console
+
+Crash course 10:30 of the above video
+
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html
+Download any notebook content from git or something: paste ur  url here-> https://nbviewer.jupyter.org/
