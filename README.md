@@ -6,6 +6,10 @@ This repo should contain all spark codes.
 git init
 git remote add origin https://github.com/koushikpaul1/spark.git 
 git pull  origin 2-branch
+
+git config --global user.email koushikpaul1@gmail.com
+git config --global user.name  koushikpaul
+
 git add .
 git commit -m "todo"
 git push  https://github.com/koushikpaul1/spark.git 2-branch
