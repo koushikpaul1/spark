@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningSpark.iml" filepath="$PROJECT_DIR$/.idea/modules/learningSpark.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningspark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningspark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningSpark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningSpark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark-master/.idea/modules/sparkScala.iml" filepath="$PROJECT_DIR$/../spark-master/.idea/modules/sparkScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark-master/.idea/modules/sparkScala-build.iml" filepath="$PROJECT_DIR$/../spark-master/.idea/modules/sparkScala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark/.idea/modules/spark_4474.iml" filepath="$PROJECT_DIR$/../spark/.idea/modules/spark_4474.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark/.idea/modules/spark_4474-build.iml" filepath="$PROJECT_DIR$/../spark/.idea/modules/spark_4474-build.iml" />
     </modules>
   </component>
 </project>

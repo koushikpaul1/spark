@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="learningspark,learningSpark" />
+    <profile name="sbt 1" modules="Spark,learningSpark,learningspark,spark-master_7699,sparkScala,spark_4474" />
   </component>
 </project>
